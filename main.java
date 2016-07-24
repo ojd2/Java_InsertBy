@@ -1,3 +1,14 @@
+/*
+ _____    _____  ____       ___     
+/\  __`\ /\___ \/\  _`\   /'___`\   
+\ \ \/\ \\/__/\ \ \ \/\ \/\_\ /\ \  
+ \ \ \ \ \  _\ \ \ \ \ \ \/_/// /__ 
+  \ \ \_\ \/\ \_\ \ \ \_\ \ // /_\ \
+   \ \_____\ \____/\ \____//\______/
+    \/_____/\/___/  \/___/ \/_____/ 
+*/
+
+// Set up data structure for list of employee details associated with salary.
 public class SalaryList {
   private final String firstName; // required data
   private final String lastName; // required data
